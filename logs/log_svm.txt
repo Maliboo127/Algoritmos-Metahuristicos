@@ -1,0 +1,6 @@
+svm_rbf    semilla= 42 DA   fitness=0.20689 acc_cv=0.7931 params={'C': 49.74324443725715, 'gamma': 0.0011772438079309085} (34s)
+svm_rbf    semilla= 42 PSO  fitness=0.20689 acc_cv=0.7931 params={'C': 100.0, 'gamma': 0.0008083930113230929} (34s)
+svm_rbf    semilla= 42 DE   fitness=0.20689 acc_cv=0.7931 params={'C': 85.49331914568894, 'gamma': 0.0009337316093719626} (34s)
+svm_lineal semilla= 42 DA   fitness=0.21177 acc_cv=0.7882 params={'C': 20.98302729986613} (152s)
+svm_lineal semilla= 42 PSO  fitness=0.21177 acc_cv=0.7882 params={'C': 20.98302729986613} (144s)
+svm_lineal semilla= 42 DE   fitness=0.21177 acc_cv=0.7882 params={'C': 32.58974053877609} (194s)

@@ -1,0 +1,3 @@
+rf         semilla= 42 DA   fitness=0.21654 acc_cv=0.7835 params={'n_estimators': 39, 'max_depth': 17, 'min_samples_split': 7, 'min_samples_leaf': 20} (191s)
+rf         semilla= 42 PSO  fitness=0.21493 acc_cv=0.7851 params={'n_estimators': 165, 'max_depth': 22, 'min_samples_split': 16, 'min_samples_leaf': 20} (390s)
+rf         semilla= 42 DE   fitness=0.21493 acc_cv=0.7851 params={'n_estimators': 165, 'max_depth': 18, 'min_samples_split': 20, 'min_samples_leaf': 20} (344s)
