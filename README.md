@@ -1,5 +1,7 @@
 # 🐉 Proyecto Final: Algoritmos Metaheurísticos
-
+<p align="center">
+  <img src="img/logo_dragonfly.svg" alt="DragonFly" width="300">
+</p>
 <h2 align="center">Obtención de hiperparámetros óptimos con DA, PSO y DE para SVM y Random Forest</h2>
 
 <p align="center">
